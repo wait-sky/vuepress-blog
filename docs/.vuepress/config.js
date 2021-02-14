@@ -11,6 +11,7 @@ module.exports = {
     // 导航栏配置
     nav: [
       { text: "首页", link: "/" },
+      { text: "集成element", link: "http://xuedingmiao.com/blog/vuepress_element.html" },
       { text: "vue文件测试", link: "/tech/" },
       { text: "学习文档", link: "https://www.jianshu.com/p/37509da5a020" },
       { text: "学习视频", link: "https://www.bilibili.com/video/BV1mt411b76c?p=1" },
