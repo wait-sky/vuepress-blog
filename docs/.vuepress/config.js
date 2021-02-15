@@ -12,11 +12,7 @@ module.exports = {
     nav: [
       // { text: "首页", link: "/" },
       { text: "指南", link: "/guide/" },
-      { text: "集成element", link: "http://xuedingmiao.com/blog/vuepress_element.html" },
-      { text: "vue文件测试", link: "/tech/" },
-      { text: "学习文档", link: "https://www.jianshu.com/p/37509da5a020" },
-      { text: "学习视频", link: "https://www.bilibili.com/video/BV1mt411b76c?p=1" },
-      { text: "简书主页", link: "https://www.jianshu.com/u/c455567c7f50" },
+      { text: "网址导航", link: "/tech/" },
       { text: "关于", link: "/about" },
       {
         text: "分享",
@@ -37,6 +33,7 @@ module.exports = {
           { text: "每日分享", link: "/tech/" },
         ],
       },
+      { text: "Github", link: "https://github.com/wait-sky" },
     ],
     // sidebar: "auto", // 侧边栏配置 不能深层次查找
     sidebarDepth: 2, // 二级标题
